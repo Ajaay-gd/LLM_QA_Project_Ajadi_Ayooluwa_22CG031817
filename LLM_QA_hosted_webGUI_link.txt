@@ -1,0 +1,13 @@
+Name: Ajadi Ayooluwa
+
+Matric Number: 22CG031817
+
+Live Application URL:https://your-app-name.onrender.com
+
+GitHub Repository: https://github.com/Ajaay-gd/LLM_QA_Project_Ajadi_Ayooluwa_22CG031817
+
+Deployment Platform Used: Render.com 
+
+Date Deployed: 11/21/2025
+
+
