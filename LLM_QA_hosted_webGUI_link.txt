@@ -2,7 +2,7 @@ Name: Ajadi Ayooluwa
 
 Matric Number: 22CG031817
 
-Live Application URL:https://your-app-name.onrender.com
+Live Application URL: https://llm-qa-project-ajadi-ayooluwa-22cg031817.onrender.com
 
 GitHub Repository: https://github.com/Ajaay-gd/LLM_QA_Project_Ajadi_Ayooluwa_22CG031817
 
